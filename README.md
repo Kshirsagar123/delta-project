@@ -83,3 +83,42 @@ Model.findById()
 Model.findByIdAndUpdate()
 Model.findByIdAndDelete()
 .populate()
+```
+
+---
+
+## 🧪 Installation
+```
+git clone https://github.com/Kshirsagar123/delta-project
+cd delta-project
+npm install
+```
+---
+
+## ⚙️ Environment Variables
+
+Create a .env file and add:
+```
+ATLASDB_URL=your_mongodb_url
+SECRET=your_secret_key
+CLOUDINARY_CLOUD_NAME=your_cloud_name
+CLOUDINARY_KEY=your_key
+CLOUDINARY_SECRET=your_secret
+
+```
+---
+
+## ▶️  Run Locally : npm start
+
+---
+
+## 🚀 Deployment 
+- Backend & App: Render
+- Database: MongoDB Atlas
+- Image Storage: Cloudinary
+
+---
+
+## 📌 Author:
+
+Ganesh Bharat Kshirsagar

@@ -20,23 +20,23 @@ WanderLust is a full-stack Airbnb-like web application where users can explore, 
 ![Show](https://github.com/Kshirsagar123/delta-project/blob/9ba0e1f270a9f6cd89294256e4a045e436d53ffe/Show.png)
 
 -📝 Signup page
-![Signup](https://github.com/Kshirsagar123/delta-project/blob/9ba0e1f270a9f6cd89294256e4a045e436d53ffe/Show.png)
+![Signup](https://github.com/Kshirsagar123/delta-project/blob/c5e577f2223bbb41b062edd63fa67e752d293295/Signup.png)
 
 
 -👤 Login page
-![Login](https://github.com/Kshirsagar123/delta-project/blob/9ba0e1f270a9f6cd89294256e4a045e436d53ffe/Show.png)
+![Login](https://github.com/Kshirsagar123/delta-project/blob/c5e577f2223bbb41b062edd63fa67e752d293295/login.png)
 
 
 -➕ Create Listing
-![Create](https://github.com/Kshirsagar123/delta-project/blob/9ba0e1f270a9f6cd89294256e4a045e436d53ffe/Show.png)
+![Create](https://github.com/Kshirsagar123/delta-project/blob/c5e577f2223bbb41b062edd63fa67e752d293295/create_new_listing.png)
 
 
 -✏️ Edit page 
-![Edit](https://github.com/Kshirsagar123/delta-project/blob/9ba0e1f270a9f6cd89294256e4a045e436d53ffe/Show.png)
+![Edit](https://github.com/Kshirsagar123/delta-project/blob/c5e577f2223bbb41b062edd63fa67e752d293295/edit.png)
 
 
 -⭐🗑️ Review, Rating and Delete
-![Review](https://github.com/Kshirsagar123/delta-project/blob/9ba0e1f270a9f6cd89294256e4a045e436d53ffe/Show.png)
+![Review](https://github.com/Kshirsagar123/delta-project/blob/c5e577f2223bbb41b062edd63fa67e752d293295/review_rating_delete.png)
 
 ---
 

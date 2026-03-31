@@ -13,10 +13,31 @@ WanderLust is a full-stack Airbnb-like web application where users can explore, 
 ## 📸 Screenshots
 
 ---
-🏠 Home Page
+-🏠 Home Page
  ![Home](https://github.com/Kshirsagar123/delta-project/blob/25102114e802e044c26c35cdf80bc31a35eadf42/Home.png)  
 
-📑 Show Page
+-📑 Show Page
+![Show](https://github.com/Kshirsagar123/delta-project/blob/9ba0e1f270a9f6cd89294256e4a045e436d53ffe/Show.png)
+
+-📝 Signup page
+![Signup](https://github.com/Kshirsagar123/delta-project/blob/9ba0e1f270a9f6cd89294256e4a045e436d53ffe/Show.png)
+
+
+-👤 Login page
+![Login](https://github.com/Kshirsagar123/delta-project/blob/9ba0e1f270a9f6cd89294256e4a045e436d53ffe/Show.png)
+
+
+-➕ Create Listing
+![Create](https://github.com/Kshirsagar123/delta-project/blob/9ba0e1f270a9f6cd89294256e4a045e436d53ffe/Show.png)
+
+
+-✏️ Edit page 
+![Edit](https://github.com/Kshirsagar123/delta-project/blob/9ba0e1f270a9f6cd89294256e4a045e436d53ffe/Show.png)
+
+
+-⭐🗑️ Review, Rating and Delete
+![Review](https://github.com/Kshirsagar123/delta-project/blob/9ba0e1f270a9f6cd89294256e4a045e436d53ffe/Show.png)
+
 ---
 
 ## 🛠️ Tech Stack

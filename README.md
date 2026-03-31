@@ -11,10 +11,12 @@ WanderLust is a full-stack Airbnb-like web application where users can explore, 
 ---
 
 ## 📸 Screenshots
- 
+
+---
+🏠 Home Page
  ![Home](https://github.com/Kshirsagar123/delta-project/blob/25102114e802e044c26c35cdf80bc31a35eadf42/Home.png)  
 
-
+📑 Show Page
 ---
 
 ## 🛠️ Tech Stack
